@@ -1,0 +1,15 @@
+.important {
+    color:black;
+    font-size: 22px;
+}
+.unimportant {
+    color: blue;
+    font-weight: bold;
+}
+.box {
+    background-color: whitesmoke;
+    width: 1000px;
+    border: 15px solid green;
+    padding:40px;
+    margin: 40px;
+}
